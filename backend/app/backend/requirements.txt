@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pytesseract
+python-multipart
+pdfplumber
+qdrant-client
+openai
+streamlit
