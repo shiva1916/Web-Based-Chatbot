@@ -1,8 +1,5 @@
 fastapi
 uvicorn
 pytesseract
+pillow
 python-multipart
-pdfplumber
-qdrant-client
-openai
-streamlit
